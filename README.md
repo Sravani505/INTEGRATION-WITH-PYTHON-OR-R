@@ -7,12 +7,15 @@ This repository contains the deliverables for **Task 4: Integration with Python 
 ## 🔍 Task Objective
 Use Python or R scripts within Power BI to perform advanced data analysis or visualizations.
 
-## 📊 Project Details
+## 👤 Internship Details
+
+- **Company Name:** CODTECH IT SOLUTIONS PRIVATE LIMITED  
 - **Intern Name:** Sravani  
 - **Intern ID:** CT06DN1171  
 - **Domain:** Power BI  
-- **Batch Duration:** 6 Weeks (May 20th – July 5th)  
+- **Batch Duration:** 6 Weeks (May 20th – July 5th, 2025)  
 - **Mentor:** Neela Santhosh Kumar
+
 
 ## 🧠 What I Did
 - Imported sales data in Power BI.

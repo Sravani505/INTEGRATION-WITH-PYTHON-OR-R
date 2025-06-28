@@ -20,6 +20,19 @@ Use Python or R scripts within Power BI to perform advanced data analysis or vis
 - Combined `Year`, `Month`, and `Day` into a single `Date` column using `pandas.to_datetime()`.
 - Plotted sales trends per region using `matplotlib`, with customization such as markers, lines, gridlines, legends, and rotation of x-ticks.
 
+  ## 🖼️ Visual Highlight
+
+> 📌 _Sales Over Time by Region using Python in Power BI_
+
+This Python visual shows how sales changed daily across regions (North, South, East, West) using Python’s plotting features — enabling more flexible and detailed data storytelling.
+
+
+## 🔧 Tools Used
+
+- **Power BI Desktop**
+- **Python (Pandas, Matplotlib)**
+
+
 ## Output
 
 

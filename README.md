@@ -34,6 +34,7 @@ This Python visual shows how sales changed daily across regions (North, South, E
 
 
 ## Output
+![Image](https://github.com/user-attachments/assets/34b8cd30-03fe-4236-ba2a-ea45d73002ec)
 
 
 
